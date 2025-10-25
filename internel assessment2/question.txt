@@ -1,0 +1,4 @@
+Q1:Take 5 subject marks input and print
+Q2:Check the character is uppercase , Lowercase , Digit or Special Symbol.
+Q3:Print the minimum Element of Array
+Q4:check the digits of a number are in ascending order or not print "Yes" if else "No"
