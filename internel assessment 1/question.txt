@@ -1,0 +1,4 @@
+1.ASCII Value
+2.Check weather number is positive negative or zero
+3.Number palindrome
+4.index of last occurrence of key element else -1
